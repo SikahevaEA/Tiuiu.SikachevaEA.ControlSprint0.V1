@@ -5,6 +5,8 @@ VisualStudioVersion = 16.0.34031.81
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tiuiu.SikachevaEA.Sprint0.Task2.V1", "Tiuiu.SikachevaEA.Sprint0.Task2.V1\Tiuiu.SikachevaEA.Sprint0.Task2.V1.vcxproj", "{E89248B4-A576-4129-A45A-80A86BDC7478}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Tiuiu.SikachevaEA.Sprint0.Task1.V1", "Tiuiu.SikachevaEA.Sprint0.Task1.V1\Tiuiu.SikachevaEA.Sprint0.Task1.V1.vcxproj", "{D65037F5-9173-4DC4-9659-B193F09A5423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{E89248B4-A576-4129-A45A-80A86BDC7478}.Release|x64.Build.0 = Release|x64
 		{E89248B4-A576-4129-A45A-80A86BDC7478}.Release|x86.ActiveCfg = Release|Win32
 		{E89248B4-A576-4129-A45A-80A86BDC7478}.Release|x86.Build.0 = Release|Win32
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Debug|x64.ActiveCfg = Debug|x64
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Debug|x64.Build.0 = Debug|x64
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Debug|x86.ActiveCfg = Debug|Win32
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Debug|x86.Build.0 = Debug|Win32
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Release|x64.ActiveCfg = Release|x64
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Release|x64.Build.0 = Release|x64
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Release|x86.ActiveCfg = Release|Win32
+		{D65037F5-9173-4DC4-9659-B193F09A5423}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
